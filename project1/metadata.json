@@ -1,0 +1,8 @@
+{
+  "name": "VidyaMitra – AI Career Companion",
+  "description": "A comprehensive AI-powered career development platform featuring ATS Checker, Coding Practice, Mentoring, Roadmaps, Jobs, and Group Discussion.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
